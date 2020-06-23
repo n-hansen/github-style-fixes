@@ -1,0 +1,16 @@
+* Github June 2020 Redesign Reverter
+
+Github pushed out a website redesign in June 2020. Like all modern website redesigns, I absolutely hate it,
+so I wrote this browser extension to revert the changes I find most unpleasant.
+
+** Features
+
+- Remove ~border-radius~ from all elements.
+- Make the navigation tabs look like actual tabs.
+
+** Planned Features
+
+- Remove unneeded margins/padding now that borders have no radius.
+- Make user avatars and icons (e.g. PR review page) look "nicer."
+- Remove css transitions.
+- Add checkboxes for tweaks.
