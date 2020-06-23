@@ -1,0 +1,19 @@
+* {
+    border-radius: 0 !important;
+}
+
+.avatar-user {
+    border-radius: 0 !important;
+}
+
+.js-indicator-modifier.mail-status {
+    border-radius: 50% !important;
+}
+
+.UnderlineNav-item.selected {
+    border-left: 2px solid rgba(209,213,218,9);
+    border-right: 2px solid rgba(209,213,218,9);
+    border-bottom: 0;
+    border-top: 3px solid #f9826c;
+    background-color: #FFFFFF !important;
+}

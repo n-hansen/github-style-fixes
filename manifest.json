@@ -1,0 +1,13 @@
+{
+    "name": "Fix The Obnoxious Github 2020 Redesign",
+    "version": "0.1",
+    "description": "Github made its interface more annoying, this extension reverts the things I don't like.",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": ["https://github.com/*"],
+        "css": ["fixes.css"]
+    }],
+    "web_accessible_resources": [
+        "fixes.css"
+    ]
+}
