@@ -7,10 +7,11 @@ so I wrote this browser extension to revert the changes I find most unpleasant.
 
 - Remove ~border-radius~ from all elements.
 - Make the navigation tabs look like actual tabs.
+- Row borders and tighter padding in file list.
 
 ** Planned Features
 
-- Remove unneeded margins/padding now that borders have no radius.
+- Remove unneeded margins/padding.
 - Make user avatars and icons (e.g. PR review page) look "nicer."
 - Remove css transitions.
 - Add checkboxes for tweaks.
